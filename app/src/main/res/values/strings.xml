@@ -1,0 +1,10 @@
+<resources>
+    <string name="Tips_Calculator">Tip Calc</string>
+    <string name="bill_total_text_view">Bill Total</string>
+    <string name="tip_percent_text_view">Tip %</string>
+    <string name="tip_10_button">10%</string>
+    <string name="tip_15_button">15%</string>
+    <string name="tip_20_button">20%</string>
+    <string name="tip_amount_text_view">Tip - 0</string>
+    <string name="total_amount_text_view">Total Amount - 0</string>
+</resources>
